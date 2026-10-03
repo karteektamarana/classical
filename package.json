@@ -1,0 +1,12 @@
+{
+  "name": "elan-royale",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo \"Static site build complete\"",
+    "start": "npx serve -s . -l 10000"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
